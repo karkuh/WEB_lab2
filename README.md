@@ -5,7 +5,7 @@
 позиціонування елементів за допомогою різних видів.<br>
 <b>
 <b>Посилання на сайт: <a href="https://karkuh.github.io/WEB_lab2/">тиць</a></b><br>
-<b>Оцінка: ???</b><br>
+<b>Оцінка: 5</b><br>
 <p align="center">Скріншот сайту</p>
 <p><img src="https://github.com/karkuh/WEB_lab2/blob/master/screenshots/screen1.jpg">
 <img src="https://github.com/karkuh/WEB_lab2/blob/master/screenshots/screen2.jpg">
